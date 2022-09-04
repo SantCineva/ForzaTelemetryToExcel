@@ -9,4 +9,4 @@ I am no expert at programming so it is what it is.
 It works, so who cares...
 
 You will need to install:
-Openpyxl : pip install openpyxl
+Openpyxl - pip install openpyxl
