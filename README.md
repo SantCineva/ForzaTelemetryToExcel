@@ -7,3 +7,6 @@ Just python, you don't need to install anything besides some python modules and 
 
 I am no expert at programming so it is what it is.
 It works, so who cares...
+
+You will need to install:
+Openpyxl : pip install openpyxl
