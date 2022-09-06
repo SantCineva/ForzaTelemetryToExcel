@@ -1,5 +1,5 @@
 # ForzaTelemetry
-Basic API for logging telemetry data from Forza Horizon 5
+Basic API for logging telemetry data from Forza Horizon 5 to an excel file.
 
 So the FH5 game seems to have some pretty realistic physics and I wanted to see how the elipse of friction varies after tuning the cars.
 I looked for a simple way to log the data out into an excel ".xlsx" file, but I couldn't find any, so... there it is.
