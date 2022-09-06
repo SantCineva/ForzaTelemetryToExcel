@@ -8,7 +8,6 @@ I looked for a simple way to log the data out into an excel ".xlsx" file, but I 
 Just python, you don't need to install anything besides some python modules and you are good to go.
 
 I'm no expert at programming so it is what it is.
-It works, so who cares...
 
 You will need to install:
 Openpyxl - pip install openpyxl
