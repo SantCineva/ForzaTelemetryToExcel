@@ -1,4 +1,4 @@
-# ForzaTelemetry
+# ForzaTelemetryToExcel
 Basic API for logging telemetry data from Forza Horizon 5 to an excel file.
 
 ![Cover](https://user-images.githubusercontent.com/93879503/188695754-a44faab5-7152-49fd-80b8-57044f17acdc.png)
