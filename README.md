@@ -9,5 +9,5 @@ Just python, you don't need to install anything besides some python modules and 
 
 I'm no expert at programming so it is what it is.
 
-You will need to install:
-Openpyxl - pip install openpyxl
+You will need to install Openpyxl. To do that, run the following command into the console:
+`pip install openpyxl`
