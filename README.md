@@ -7,7 +7,5 @@ So the FH5 game seems to have some pretty realistic physics and I wanted to see 
 I looked for a simple way to log the data out into an excel ".xlsx" file, but I couldn't find any, so... there it is.
 Just python, you don't need to install anything besides some python modules and you are good to go.
 
-I'm no expert at programming so it is what it is.
-
 You will need to install Openpyxl. To do that, run the following command into the console:
 `pip install openpyxl`
